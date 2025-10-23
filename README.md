@@ -1,4 +1,4 @@
-# CS360MobileArchitectAndProgramming
+# CS-360 Mobile Architect And Programming
 ## A repository for my work completed throughout my CS-360 Mobile Architect &amp; Programming course at Southern New Hampshire University
 
 The Weight-Tracker mobile app was created to provide users with an easy-to-use, motivating tool to track their weight over time. A user-centered experience that promotes accountability without overwhelming users with extraneous features was the goal in mind. Key screens including a home screen that shows logged weights, a form for entering new daily weights, and a goal-tracking view to illustrate progress are all included in the application in order to satisfy this need. Other features, such as SMS messages that congratulate users upon reaching milestones, were added in order to reinforce motivation through positive feedback. With readable typography, unambiguous buttons, and a well-organized structure, the user interface (UI) was purposefully made to be simple and uncluttered, facilitating easy and effective user engagement.
